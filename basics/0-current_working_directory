@@ -1,2 +1,2 @@
 #!/bin/bash
-print(/tmp/correction/6579949343099390101715245074190490158908_5/2019/6838/basics)
+pwd 0-current_working_directory
