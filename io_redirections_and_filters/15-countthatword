@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d | echo "25"
+grep -o -i bin /etc/passwd | wc -l
