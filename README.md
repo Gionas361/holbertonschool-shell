@@ -1,1 +1,0 @@
-0-current_working_directory = states the current directory of the file.
